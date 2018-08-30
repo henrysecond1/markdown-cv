@@ -1,91 +1,73 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jeongwook Park's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jeongwook Park
+
+Software Engineer, KAIST MS Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="henrysecond1@gmail.com">henrysecond1@gmail.com</a>
+| <a href="http://henrysecond1.github.io">My personal homepage</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+- Pursuing M.S. degree in KAIST CS. (expected 2019.2)
 
-### Specialized in
+## Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- **Programming Languages**
+  - Python, Java, C
+- **Web development frameworks**
+  - Laravel (PHP), Ruby on Rails, JQuery
+- **Machine Learning frameworks**
+  - TensorFlow, OpenAI Gym
+- **DB**
+  - MySQL, AWS DynamoDB, MongoDB
+- **OS**
+  - UNIX
 
+## Work Experience
 
-### Research interests
+`2013.1 - 2013.11`
+Software Engineer, *Donus*, Seoul, Korea
+-- asdfasdf
+-- asdfasdf
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`2016.1 - 2017.1`
+Software Engineer, *Omnious*, Seoul, Korea
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011.2 - 2017.2`
+__Korea Advanced Institute of Science and Technology (KAIST), Dajeon, Korea.__  
+B.S., in Dept. of Electrical Engineering  
+Minor: Computer Science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2017.2 - now`
+__Korea Advanced Institute of Science and Technology (KAIST), Dajeon, Korea.__  
+M.S., in School of Computing
 
-- Sizar
+## Research interests
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Pervasive computing
+- Reinforcement Learning
+- Distributed Systems
+- Multi-Agent Systems
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+I'm trying hard to publish papers.
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Academic projects
 
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
